@@ -11,17 +11,11 @@ const config = {
   title: "Gusna Tech Lab.",
   tagline: "Berbagi informasi tekait dunia teknologi informasi.",
   favicon: "img/favicon.ico",
-
-  // Set the production url of your site here
   url: "https://gusnaikhsan.github.io",
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/my-website-docu/",
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
   organizationName: "gusna-tech-lab", // Usually your GitHub org/user name.
   projectName: "gusna-tech-lab-docu", // Usually your repo name.
+  deploymentBranch: "gh-pages",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
