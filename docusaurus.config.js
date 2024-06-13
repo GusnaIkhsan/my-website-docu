@@ -13,8 +13,8 @@ const config = {
   favicon: "img/favicon.ico",
   url: "https://gusnaikhsan.github.io",
   baseUrl: "/my-website-docu/",
-  organizationName: "gusna-tech-lab", // Usually your GitHub org/user name.
-  projectName: "gusna-tech-lab-docu", // Usually your repo name.
+  organizationName: "gusnaikhsan", // Usually your GitHub org/user name.
+  projectName: "my-website-docu", // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   onBrokenLinks: "throw",
