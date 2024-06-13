@@ -9,7 +9,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Gusna Tech Lab.",
-  tagline: "Berbagi informasi tekait dunia teknologi informasi.",
+  tagline: "Berbagi informasi tekait dunia teknologi.",
   favicon: "img/favicon.ico",
   url: "https://github.com",
   baseUrl: "/my-website-docu/",
