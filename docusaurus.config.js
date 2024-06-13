@@ -11,7 +11,7 @@ const config = {
   title: "Gusna Tech Lab.",
   tagline: "Berbagi informasi tekait dunia teknologi informasi.",
   favicon: "img/favicon.ico",
-  url: "https://gusnaikhsan.github.io",
+  url: "https://github.com",
   baseUrl: "/my-website-docu/",
   organizationName: "gusnaikhsan", // Usually your GitHub org/user name.
   projectName: "my-website-docu", // Usually your repo name.
